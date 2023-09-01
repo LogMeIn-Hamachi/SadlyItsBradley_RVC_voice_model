@@ -9,5 +9,9 @@ And trained it with this: https://github.com/RVC-Project/Retrieval-based-Voice-C
 -
 The Brad model can also be used in realtime with this: https://github.com/w-okada/voice-changer
 -
+You can feed RVC with TTS mp3s created by this: https://github.com/rsxdalv/tts-generation-webui
+-
+You may also find this helpfull: https://github.com/Anjok07/ultimatevocalremovergui
+-
 Trained with 40 epochs,both videos, 48k, v2.
 -
